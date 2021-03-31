@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VastalShah/jasmine-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VastalShah/jasmine-lab/issues"
+  },
+  "homepage": "https://github.com/VastalShah/jasmine-lab#readme"
+}
